@@ -490,8 +490,9 @@ cite img {
     margin: 0 auto;
 }
 
-input [type=text],
-input [type=email], 
+
+#name,
+#email,
 select,
 textarea {
     width: 100%;
@@ -504,7 +505,7 @@ textarea {
     height: 100%;
 }
 
-input[type=checkbox] {
+input [type=checkbox] {
     margin: 10px 5px 10px 0;
 }
 

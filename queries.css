@@ -34,14 +34,19 @@
 
     .steps-box:last-child {
         margin-top: 10%;
+        padding-left: 2%;
     }
 
     .works-step {
         margin-bottom: 40px;
     }
 
-    .works-step:last-child {
-        margin-bottom: 60px;
+    .works-step:last-of-type {
+        margin-bottom: 30px;
+    }
+
+    .btn-app:last-of-type {
+        display: inline-block;
     }
 
     .app-screen {
@@ -68,6 +73,14 @@
 
     .contact-form {
         width: 80%;
+    }
+
+    .mobile:first-child {
+        width: 60%;
+    }
+    .mobile:last-of-type {
+        width: 30%;
+        padding-bottom: 10px;
     }
 }
 
@@ -143,6 +156,10 @@
         text-align: center;
     }
 
+    .steps-box:last-child {
+        margin-top: 20px;
+    }
+
     .works-step div {
         height: 40px;
         width: 40px;
@@ -153,10 +170,11 @@
 
     .works-step {
         margin-bottom: 20px;
+        margin-right: 60px;
     }
 
-    .works-step:last-child {
-        margin-bottom: 60px;
+    .works-step:last-of-type {
+        margin-bottom: 40px;
     }
 
     .plan-box {
