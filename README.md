@@ -1,3 +1,10 @@
-/* ---- OmniFood Project ---- */
+# OmniFood Project
 
-Comment: Project done as part of an online course, teaching the advance usage of HTML5 and CSS3 by building a responsive website.
+Description:
+******************************************************************************************************************************
+Project done as part of an online course, teaching the advance usage of HTML5 and CSS3 by building a responsive website.
+******************************************************************************************************************************
+Demo:
+******************************************************************************************************************************
+The project is available to view/interact on: https://simeong-web.github.io/Omnifoods/
+******************************************************************************************************************************
